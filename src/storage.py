@@ -3,6 +3,7 @@ import json
 from typing import List, Optional
 from .vacancy import Vacancy
 from .parser import HeadHunterParser
+from .utils import load_vacancies, save_vacancies, vacancy_to_dict, dict_to_vacancy
 
 class VacancyStorage(ABC):
     """Абстрактный базовый класс для хранилища вакансий"""
@@ -23,52 +24,46 @@ class VacancyStorage(ABC):
         pass
 
 class JSONStorage(VacancyStorage):
-    """Реализация хранилища на основе JSON файла"""
+    """Класс для работы с JSON-файлом"""
     
     def __init__(self, file_path: str = "vacancies.json"):
-        self.file_path = file_path
-        self.parser = HeadHunterParser()
-        self._ensure_file_exists()
-    
-    def _ensure_file_exists(self) -> None:
-        """Проверка существования JSON файла"""
-        try:
-            with open(self.file_path, 'r', encoding='utf-8') as f:
-                json.load(f)
-        except (FileNotFoundError, json.JSONDecodeError):
-            with open(self.file_path, 'w', encoding='utf-8') as f:
-                json.dump([], f)
-    
-    def _read_vacancies(self) -> List[dict]:
-        """Чтение вакансий из JSON файла"""
-        with open(self.file_path, 'r', encoding='utf-8') as f:
-            return json.load(f)
-    
-    def _write_vacancies(self, vacancies: List[dict]) -> None:
-        """Запись вакансий в JSON файл"""
-        with open(self.file_path, 'w', encoding='utf-8') as f:
-            json.dump(vacancies, f, ensure_ascii=False, indent=2)
+        """
+        Инициализация хранилища
+        
+        Args:
+            file_path (str): Путь к файлу для хранения вакансий. По умолчанию "vacancies.json"
+        """
+        self.__file_path = file_path
+        self.__vacancies = load_vacancies(file_path)
     
     def add_vacancy(self, vacancy: Vacancy) -> None:
-        """Добавление вакансии в JSON хранилище"""
-        vacancies = self._read_vacancies()
-        vacancy_dict = {
-            'name': vacancy.title,
-            'alternate_url': vacancy.url,
-            'salary': vacancy.salary,
-            'description': vacancy.description,
-            'snippet': {'requirement': vacancy.requirements}
-        }
-        vacancies.append(vacancy_dict)
-        self._write_vacancies(vacancies)
+        """
+        Добавление вакансии в файл
+        
+        Args:
+            vacancy (Vacancy): Вакансия для добавления
+        """
+        vacancy_dict = vacancy_to_dict(vacancy)
+        # Проверяем, нет ли уже такой вакансии
+        if not any(v.get('alternate_url') == vacancy_dict['alternate_url'] for v in self.__vacancies):
+            self.__vacancies.append(vacancy_dict)
+            save_vacancies(self.__file_path, self.__vacancies)
     
-    def get_vacancies(self, **kwargs) -> List[Vacancy]:
-        """Получение вакансий из JSON хранилища"""
-        vacancies_data = self._read_vacancies()
-        return self.parser.parse_vacancies(vacancies_data)
+    def get_vacancies(self) -> List[Vacancy]:
+        """
+        Получение вакансий из файла
+        
+        Returns:
+            List[Vacancy]: Список вакансий
+        """
+        return [dict_to_vacancy(v) for v in self.__vacancies]
     
     def delete_vacancy(self, vacancy: Vacancy) -> None:
-        """Удаление вакансии из JSON хранилища"""
-        vacancies = self._read_vacancies()
-        vacancies = [v for v in vacancies if v['alternate_url'] != vacancy.url]
-        self._write_vacancies(vacancies) 
+        """
+        Удаление вакансии из файла
+        
+        Args:
+            vacancy (Vacancy): Вакансия для удаления
+        """
+        self.__vacancies = [v for v in self.__vacancies if v.get('alternate_url') != vacancy.url]
+        save_vacancies(self.__file_path, self.__vacancies) 

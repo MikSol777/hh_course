@@ -97,4 +97,21 @@ def test_multiple_vacancies(test_file):
         assert vacancy.salary_to == 150000 + i * 10000
         assert vacancy.salary_currency == "RUR"
         assert vacancy.description == f"Разработка на Python {i}"
-        assert vacancy.requirements == f"Опыт работы от {i} лет" 
+        assert vacancy.requirements == f"Опыт работы от {i} лет"
+
+def test_duplicate_vacancies(test_file, sample_vacancy):
+    """Тест предотвращения дублирования вакансий"""
+    storage = JSONStorage(test_file)
+    
+    # Добавляем вакансию первый раз
+    storage.add_vacancy(sample_vacancy)
+    assert len(storage.get_vacancies()) == 1
+    
+    # Пытаемся добавить ту же вакансию снова
+    storage.add_vacancy(sample_vacancy)
+    assert len(storage.get_vacancies()) == 1  # Количество вакансий не должно измениться
+    
+    # Проверяем, что в файле тоже только одна вакансия
+    with open(test_file, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+        assert len(data) == 1 
