@@ -4218,5 +4218,1395 @@
     },
     "description": "Описание не предоставлено",
     "requirements": "Активный, готовый обучаться всему новому. ПРИВЕТСТВУЕТСЯ ОПЫТ РАБОТЫ в должности <highlighttext>продавец</highlighttext>-универсал, <highlighttext>продавец</highlighttext>-кассир, работник торгового зала."
+  },
+  {
+    "name": "Помощник в пункт выдачи",
+    "alternate_url": "https://hh.ru/vacancy/118420605",
+    "salary": {
+      "from": 88000,
+      "to": 164000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Аккуратность, опыт <highlighttext>работы</highlighttext> не требуется."
+    }
+  },
+  {
+    "name": "Продавец-консультант",
+    "alternate_url": "https://hh.ru/vacancy/118196417",
+    "salary": {
+      "from": 85000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "АКТИВНОСТЬ на смене, не для интровертов. Опыт <highlighttext>работы</highlighttext> с табачной продукцией."
+    }
+  },
+  {
+    "name": "Специалист по работе с пользователями (передача карт и документов)",
+    "alternate_url": "https://hh.ru/vacancy/118117470",
+    "salary": {
+      "from": 103000,
+      "to": 140000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Грамотная речь. Опрятный внешний вид."
+    }
+  },
+  {
+    "name": "Упаковщик Фирменных Кроссовок (г. Москва)",
+    "alternate_url": "https://hh.ru/vacancy/118883924",
+    "salary": {
+      "from": 237000,
+      "to": 289000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Можно без опыта <highlighttext>работы</highlighttext>."
+    }
+  },
+  {
+    "name": "Сиделка в пансионат",
+    "alternate_url": "https://hh.ru/vacancy/118719260",
+    "salary": {
+      "from": 86800,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "ОПЫТ НЕ ВАЖЕН - берем всех!!! Внимательность. Высокий уровень эмпатии. Вежливость."
+    }
+  },
+  {
+    "name": "Оператор call-центра / менеджер по работе с Клиентами",
+    "alternate_url": "https://hh.ru/vacancy/118293312",
+    "salary": {
+      "from": 120000,
+      "to": 250000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Какие навыки потребуются: Высокая обучаемость новым навыкам и фишкам в <highlighttext>работе</highlighttext> с Клиентами. Собранность и самодисциплина. Остальному научим."
+    }
+  },
+  {
+    "name": "Сотрудник в пункт выдачи заказов Wildberries",
+    "alternate_url": "https://hh.ru/vacancy/118350030",
+    "salary": {
+      "from": 45000,
+      "to": 80000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "3. Внимательность. 4. Стрессоустойчивость! 5. Опыт <highlighttext>работы</highlighttext>! Если ты ответственно подходишь к своей <highlighttext>работе</highlighttext>, очень внимательный и ответственный сотрудник, то..."
+    }
+  },
+  {
+    "name": "Менеджер в детскую онлайн школу (без поиска)",
+    "alternate_url": "https://hh.ru/vacancy/118119985",
+    "salary": {
+      "from": 100000,
+      "to": 250000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Что необходимо иметь кандидату: Обязательно наличие компьютера/ноутбука, веб-камеры, гарнитуры и стабильного высокоскоростного интернета. Быть уверенным пользователем ПК (google..."
+    }
+  },
+  {
+    "name": "Менеджер по продажам через переписки (украшения с гравировкой MIRIADA)",
+    "alternate_url": "https://hh.ru/vacancy/118971227",
+    "salary": {
+      "from": 50000,
+      "to": 100000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Умение грамотно и вежливо общаться с людьми. Наличие компьютера или ноутбука для <highlighttext>работы</highlighttext>, хорошее интернет-соединение. Желание развиваться и увеличивать..."
+    }
+  },
+  {
+    "name": "Фасовщик-упаковщик Чипсов (г. Москва)",
+    "alternate_url": "https://hh.ru/vacancy/118580183",
+    "salary": {
+      "from": 238000,
+      "to": 283000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Опыт <highlighttext>работы</highlighttext> не важен, обучение в процессе <highlighttext>работы</highlighttext>."
+    }
+  },
+  {
+    "name": "Консультант горячей линии",
+    "alternate_url": "https://hh.ru/vacancy/118276055",
+    "salary": {
+      "from": 35000,
+      "to": 47000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Требования не указаны"
+    }
+  },
+  {
+    "name": "Логист удаленно (Wildberries)",
+    "alternate_url": "https://hh.ru/vacancy/118286124",
+    "salary": {
+      "from": 60000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "...<highlighttext>работы</highlighttext> с логистикой на маркетплейсах будет вашим преимуществом. Навыки <highlighttext>работы</highlighttext> в режиме многозадачности. Внимательность и пунктуальность в ведении деятельности. <highlighttext>Работа</highlighttext>..."
+    }
+  },
+  {
+    "name": "Сотрудник на упаковку питания для пассажиров международных рейсов",
+    "alternate_url": "https://hh.ru/vacancy/117922584",
+    "salary": {
+      "from": null,
+      "to": 315000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Опыт не требуется - обучим - главное желание зарабатывать!!! Опыт <highlighttext>работы</highlighttext> не требуется (вакансия без опыта)."
+    }
+  },
+  {
+    "name": "Оператор в информационный отдел (удаленно)",
+    "alternate_url": "https://hh.ru/vacancy/118856948",
+    "salary": {
+      "from": 40000,
+      "to": 50000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Опыт <highlighttext>работы</highlighttext> в сфере продаж - как преимущество. Умение быстро ориентироваться в новой информации. Доброжелательность, стрессоустойчивость и любовь к людям."
+    }
+  },
+  {
+    "name": "Полицейский",
+    "alternate_url": "https://hh.ru/vacancy/118640307",
+    "salary": {
+      "from": 110000,
+      "to": 120000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Берем бывших сотрудников и с НУК. Образование не ниже среднего. Годен по состоянию здоровья к службе."
+    }
+  },
+  {
+    "name": "Специалист по сопровождению клиентов в детскую онлайн школу (без поиска)",
+    "alternate_url": "https://hh.ru/vacancy/118965008",
+    "salary": {
+      "from": 100000,
+      "to": 250000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Что необходимо иметь кандидату: Обязательно наличие компьютера/ноутбука, веб-камеры, гарнитуры и стабильного высокоскоростного интернета. Быть уверенным пользователем ПК (google..."
+    }
+  },
+  {
+    "name": "Оператор интернет-магазина",
+    "alternate_url": "https://hh.ru/vacancy/115186446",
+    "salary": {
+      "from": 50000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Внимательность, ответственность, умение работать в режиме многозадачности, клиентоориентированность. Стрессоустойчивость, не конфликтность. Знание ПК на уровне уверенного пользователя. Грамотная устная и..."
+    }
+  },
+  {
+    "name": "Менеджер по работе с партнерами",
+    "alternate_url": "https://hh.ru/vacancy/118072987",
+    "salary": {
+      "from": 150000,
+      "to": 250000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Телефон с Telegram и немножко энтузиазма. Преимущества: Никаких начальников, отчётов и дедлайнов. Ты сам себе босс."
+    }
+  },
+  {
+    "name": "Начинающий специалист по оформлению страховых полисов (Удаленно + офис)",
+    "alternate_url": "https://hh.ru/vacancy/118775767",
+    "salary": {
+      "from": 50000,
+      "to": 150000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Опыт <highlighttext>работы</highlighttext> не требуется. -Пользователь ПК. -Умение работать в команде."
+    }
+  },
+  {
+    "name": "Стажер проката фото/видео оборудования и отдела удаленных продаж",
+    "alternate_url": "https://hh.ru/vacancy/118863196",
+    "salary": {
+      "from": 50000,
+      "to": 100000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Умение эффективно выстраивать и вести диалог, навыки деловой переписки. Структурировать информацию, расставлять приоритеты. Ответственность, аккуратность и внимательность важны в <highlighttext>работе</highlighttext>."
+    }
+  },
+  {
+    "name": "Дистанционный специалист по работе с клиентами",
+    "alternate_url": "https://hh.ru/vacancy/115264242",
+    "salary": {
+      "from": 85000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "1 000 000 пользователей по РФ. Грамотная речь. Опыт <highlighttext>работы</highlighttext> на звонках, либо огромное желание научиться. Возможность брать перерывы по..."
+    }
+  },
+  {
+    "name": "Менеджер в пункт проката",
+    "alternate_url": "https://hh.ru/vacancy/118128852",
+    "salary": {
+      "from": 100000,
+      "to": 120000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Коммуникабельный, позитивный, ответственный и дисциплинированный , уверенный пользователь ПК (офисные программы). Нацелен на результат. Опыт <highlighttext>работы</highlighttext> с техникой и инструментом будем..."
+    }
+  },
+  {
+    "name": "Выгульщик собак в команду \"Собаки-гуляки\"",
+    "alternate_url": "https://hh.ru/vacancy/118694259",
+    "salary": {
+      "from": null,
+      "to": 60000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "С опытом, ты сможешь работать сменами, за фиксированную оплату. При желании можно брать питомцев на передержку к себе домой или..."
+    }
+  },
+  {
+    "name": "Менеджер по обработке заявок",
+    "alternate_url": "https://hh.ru/vacancy/118904670",
+    "salary": {
+      "from": 80000,
+      "to": 120000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "МОЖНО БЕЗ ОПЫТА В ПРОДАЖАХ. Честность и искренность. Скорость. Доброжелательность. Уверенность. Трудолюбие. Ум. Позитив. Молодая профессиональная команда (средний возраст 27..."
+    }
+  },
+  {
+    "name": "Специалист для записи на карьерную консультацию в онлайн-университет",
+    "alternate_url": "https://hh.ru/vacancy/117975955",
+    "salary": {
+      "from": null,
+      "to": 155000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "...без опыта (предусмотрено обучение с нашей компенсацией). Наличие ноутбука/компьютера и стабильного Интернет-соединения. Готовы обеспечить тишину во время <highlighttext>работы</highlighttext>."
+    }
+  },
+  {
+    "name": "Удаленный специалист контакт-центра ( консультация клиентов)",
+    "alternate_url": "https://hh.ru/vacancy/118156690",
+    "salary": {
+      "from": 80000,
+      "to": 170000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Опыт <highlighttext>работы</highlighttext> на телефоне. Высокие коммуникативные навыки. Нацеленность на материальный рост, желание зарабатывать. Грамотная устная и письменная речь. "
+    }
+  },
+  {
+    "name": "Специалист по сопровождению клиентов в детскую онлайн академию (без поиска)",
+    "alternate_url": "https://hh.ru/vacancy/117884951",
+    "salary": {
+      "from": 100000,
+      "to": 250000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Что необходимо иметь кандидату: Обязательно наличие компьютера/ноутбука, веб-камеры, гарнитуры и стабильного высокоскоростного интернета. Быть уверенным пользователем ПК (google..."
+    }
+  },
+  {
+    "name": "Комплектовщик",
+    "alternate_url": "https://hh.ru/vacancy/118979675",
+    "salary": {
+      "from": 157500,
+      "to": 202500,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Ответственность. Пунктуальность."
+    }
+  },
+  {
+    "name": "Ситтер (передержка собак и кошек)",
+    "alternate_url": "https://hh.ru/vacancy/118694773",
+    "salary": {
+      "from": null,
+      "to": 60000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Дружное коммьюнити любителей собак: помогаем, смеемся, шутим, делимся опытом."
+    }
+  },
+  {
+    "name": "Помощник по документации (удаленно)",
+    "alternate_url": "https://hh.ru/vacancy/119035723",
+    "salary": {
+      "from": 65000,
+      "to": 90000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Рассматриваем кандидатов без опыта <highlighttext>работы</highlighttext>, всему обучаем."
+    }
+  },
+  {
+    "name": "Менеджер в онлайн школу на входящие заявки-лидмен",
+    "alternate_url": "https://hh.ru/vacancy/118420738",
+    "salary": {
+      "from": null,
+      "to": 80000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Matrius — школа развития интеллекта для детей с 5 лет."
+    }
+  },
+  {
+    "name": "Специалист по оформлению полисов в страховую компанию",
+    "alternate_url": "https://hh.ru/vacancy/118402708",
+    "salary": {
+      "from": 50000,
+      "to": 150000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Опыт <highlighttext>работы</highlighttext> не требуется. -Пользователь ПК. -Умение работать в команде."
+    }
+  },
+  {
+    "name": "Менеджер по удержанию студентов (возвраты)",
+    "alternate_url": "https://hh.ru/vacancy/118184984",
+    "salary": {
+      "from": 55000,
+      "to": 70000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Умение выстраивать диалог с вовлечением в проблему и истинным желанием помочь студенту. Опыт <highlighttext>работы</highlighttext> на звонках. Опыт <highlighttext>работы</highlighttext> в клиентском..."
+    }
+  },
+  {
+    "name": "Начинающий сканировщик-упаковщик в Вкусвилл",
+    "alternate_url": "https://hh.ru/vacancy/118338384",
+    "salary": {
+      "from": 105000,
+      "to": 135000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Принимаем БЕЗ ОПЫТА (проводим обучение)."
+    }
+  },
+  {
+    "name": "Администратор автомойки",
+    "alternate_url": "https://hh.ru/vacancy/118979632",
+    "salary": {
+      "from": 100000,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Пунктуальность. Обучаемость. Неконфликтность. Работоспособность. Ответственность. Аккуратность. Знание технической части автомобиля."
+    }
+  },
+  {
+    "name": "Оператор по обработке заказов",
+    "alternate_url": "https://hh.ru/vacancy/118763428",
+    "salary": {
+      "from": 70000,
+      "to": 80000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Уверенное владение ПК и офисным ПО. Опыт <highlighttext>работы</highlighttext> с CRM-системами (1С, Bitrix24). Грамотная устная и письменная речь. "
+    }
+  },
+  {
+    "name": "Сотрудник в пункт выдачи заказов OZON",
+    "alternate_url": "https://hh.ru/vacancy/118487948",
+    "salary": {
+      "from": 45000,
+      "to": 120000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "3. Внимательность. 4. Стрессоустойчивость! 5. Опыт <highlighttext>работы</highlighttext>! Если ты ответственно подходишь к своей <highlighttext>работе</highlighttext>, очень внимательный и ответственный сотрудник, то..."
+    }
+  },
+  {
+    "name": "Мерчендайзер",
+    "alternate_url": "https://hh.ru/vacancy/118497374",
+    "salary": {
+      "from": 50000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "РАССМОТРИМ КАНДИДАТОВ БЕЗ ОПЫТА <highlighttext>РАБОТЫ</highlighttext>!"
+    }
+  },
+  {
+    "name": "Сотрудник пункта выдачи OZON",
+    "alternate_url": "https://hh.ru/vacancy/118992385",
+    "salary": {
+      "from": 45000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Знание ПК на уровне уверенного пользователя (MS Office, мессенджеры). Активность, мобильность, клиентоориентированность, коммуникабельность, ответственность."
+    }
+  },
+  {
+    "name": "Сотрудник пункта выдачи OZON",
+    "alternate_url": "https://hh.ru/vacancy/119036854",
+    "salary": {
+      "from": 45000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Знание ПК на уровне уверенного пользователя (MS Office, мессенджеры). Активность, мобильность, клиентоориентированность, коммуникабельность, ответственность."
+    }
+  },
+  {
+    "name": "Менеджер по продажам (удаленно)",
+    "alternate_url": "https://hh.ru/vacancy/118307961",
+    "salary": {
+      "from": 65000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Умеющий эффективно выстраивать свой рабочий день. Уверенный пользователь ПК (Word, Excel, Google таблицы). Наличие рабочего ПК/Ноутбука. Опыт <highlighttext>работы</highlighttext> удалённого..."
+    }
+  },
+  {
+    "name": "Хостес",
+    "alternate_url": "https://hh.ru/vacancy/118979667",
+    "salary": {
+      "from": 100000,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Готовность работать в ночные смены (с 19.30-02.00). Коммуникабельность и доброжелательность. Умение работать в команде. Опыт <highlighttext>работы</highlighttext> не..."
+    }
+  },
+  {
+    "name": "Менеджер маркетплейса Wildberries удаленно",
+    "alternate_url": "https://hh.ru/vacancy/117915160",
+    "salary": {
+      "from": 90000,
+      "to": 150000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Имеется опыт <highlighttext>работы</highlighttext> с маркетплейсом Wildberries от года, предпочтителен опыт с товаркой и техникой. — Высокий уровень самоорганизации и ответственности. — "
+    }
+  },
+  {
+    "name": "Менеджер по продажам (только горячие лиды)",
+    "alternate_url": "https://hh.ru/vacancy/118546356",
+    "salary": {
+      "from": 120000,
+      "to": 150000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Приветливость и позитивное отношение к жизни. Быстрый и стабильный интернет. Опыт <highlighttext>работы</highlighttext> в продажах обязательно минимум 1 год желательно B..."
+    }
+  },
+  {
+    "name": "Менеджер по работе с клиентами",
+    "alternate_url": "https://hh.ru/vacancy/118354810",
+    "salary": {
+      "from": 70000,
+      "to": 150000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Легкость в общении и уверенность в переговорах. ️ Нацеленность на результат и активность. ️ Уверенный пользователь ПК. ️ Грамотная речь и настойчивость."
+    }
+  },
+  {
+    "name": "Оператор call-центра (входящие заявки, без холодных звонков, удаленно)",
+    "alternate_url": "https://hh.ru/vacancy/118715065",
+    "salary": {
+      "from": 70000,
+      "to": 150000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Быть уверенным пользователем ПК, приветствуется опыт <highlighttext>работы</highlighttext> с СRM-системами. Энергичность, высокий уровень эмпатии, душевность и уверенность в себе. "
+    }
+  },
+  {
+    "name": "Менеджер по работе с клиентами в онлайн школу",
+    "alternate_url": "https://hh.ru/vacancy/118191804",
+    "salary": {
+      "from": 40000,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Грамотная устная и письменная речь, уверенность в общении, умение вовлекать клиента в диалог.  Навыки <highlighttext>работы</highlighttext> с возражениями и ведения переговоров.  "
+    }
+  },
+  {
+    "name": "Маркировщик косметики на производство",
+    "alternate_url": "https://hh.ru/vacancy/117881721",
+    "salary": {
+      "from": 3190,
+      "to": 3190,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Опыт <highlighttext>работы</highlighttext> не требуется. Наличие ЛМК (помогаем с оформлением мед. книжки)."
+    }
+  },
+  {
+    "name": "Упаковщик мороженого",
+    "alternate_url": "https://hh.ru/vacancy/118894007",
+    "salary": {
+      "from": 90000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Бесплатное медобследование и медкнижка."
+    }
+  },
+  {
+    "name": "Сборщик косметики на производство",
+    "alternate_url": "https://hh.ru/vacancy/117881167",
+    "salary": {
+      "from": 3190,
+      "to": 3190,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Опыт <highlighttext>работы</highlighttext> не требуется. Наличие ЛМК (помогаем с оформлением). Внимательность, ответственность."
+    }
+  },
+  {
+    "name": "Сборщик интернет заказов ПВЗ",
+    "alternate_url": "https://hh.ru/vacancy/119002126",
+    "salary": {
+      "from": 130000,
+      "to": 185000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Желание и хорошее нестроение. Телефон или планшет . Грамотная речь и вежливость."
+    }
+  },
+  {
+    "name": "Сотрудник на свободный график (От 2,4 часов в день)",
+    "alternate_url": "https://hh.ru/vacancy/118481092",
+    "salary": {
+      "from": 74000,
+      "to": 142000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Принимаем БЕЗ ОПЫТА (выход в день обращения)."
+    }
+  },
+  {
+    "name": "Менеджер по продажам удаленно",
+    "alternate_url": "https://hh.ru/vacancy/118125316",
+    "salary": {
+      "from": 90000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Опыт по <highlighttext>работе</highlighttext> с Клиентами: в 99% случаев Вам нужно будет находить общий язык с теми, кто к нам обратился."
+    }
+  },
+  {
+    "name": "Менеджер по продажам бань",
+    "alternate_url": "https://hh.ru/vacancy/118875924",
+    "salary": {
+      "from": 80000,
+      "to": 120000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Отсутствие рутины и сложностей в процессе <highlighttext>работы</highlighttext>, легкость в <highlighttext>работе</highlighttext>. Успешный опыт продаж. Наличие рабочего места дома, без посторонних звуков..."
+    }
+  },
+  {
+    "name": "Менеджер по продажам бань (входящие заявки с сайта)",
+    "alternate_url": "https://hh.ru/vacancy/117886026",
+    "salary": {
+      "from": 102600,
+      "to": 148000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Умения и навыки, которые вам помогут: Уже имеете опыт <highlighttext>работы</highlighttext> в продажах. Знаете, как найти индивидуальный подход, умеете слушать и..."
+    }
+  },
+  {
+    "name": "Менеджер по работе с клиентами",
+    "alternate_url": "https://hh.ru/vacancy/118565535",
+    "salary": {
+      "from": 50000,
+      "to": 100000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Готовность обучаться и осваивать новые инструменты. Ответственность и внимательность к деталям. Опыт <highlighttext>работы</highlighttext> не требуется, но будет преимуществом."
+    }
+  },
+  {
+    "name": "Сборщик-упаковщик товара для маркетплейсов",
+    "alternate_url": "https://hh.ru/vacancy/118599534",
+    "salary": {
+      "from": 50000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Скорость. Ответственность. Внимательность к деталям. Способность работать с компьютером на начальном уровне."
+    }
+  },
+  {
+    "name": "Оператор колл-центра (в чате, без звонков)",
+    "alternate_url": "https://hh.ru/vacancy/117938212",
+    "salary": {
+      "from": 85000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Грамотная письменная речь. Внимательность, усидчивость, умение работать по скриптам. Владение ПК на уровне уверенного пользователя."
+    }
+  },
+  {
+    "name": "Помощник в страховую компанию (выдаем ноутбук)",
+    "alternate_url": "https://hh.ru/vacancy/118503617",
+    "salary": {
+      "from": 52000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Опыт не требуется. Ноутбук выдаем."
+    }
+  },
+  {
+    "name": "Менеджер по продаже недвижимости / Риелтор (Стажер)",
+    "alternate_url": "https://hh.ru/vacancy/118438228",
+    "salary": {
+      "from": 250000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Большой объём собственных лидов. Ищем в команду порядочных, целеустремлённых и трудолюбивых коллег!"
+    }
+  },
+  {
+    "name": "Упаковщик-комплектовщик на мини-склад",
+    "alternate_url": "https://hh.ru/vacancy/118338390",
+    "salary": {
+      "from": 107000,
+      "to": 134000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Принимаем БЕЗ ОПЫТА (проводим обучение)."
+    }
+  },
+  {
+    "name": "Оператор/диспетчер на телефоне на график сутки/трое (без продаж, удаленно)",
+    "alternate_url": "https://hh.ru/vacancy/119029338",
+    "salary": {
+      "from": 50000,
+      "to": 70000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Образование не ниже среднего специального. Уверенный пользователь ПК. Чистая грамотная речь. Опыт <highlighttext>работы</highlighttext> в контактных центрах на телефоне. "
+    }
+  },
+  {
+    "name": "Сотрудник в пункт выдачи заказов Wildberries",
+    "alternate_url": "https://hh.ru/vacancy/117862111",
+    "salary": {
+      "from": 50000,
+      "to": 100000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "3. Внимательность. 4. Стрессоустойчивость! 5. Опыт <highlighttext>работы</highlighttext>! Если ты ответственно подходишь к своей <highlighttext>работе</highlighttext>, очень внимательный и ответственный сотрудник, то..."
+    }
+  },
+  {
+    "name": "Сотрудник склада",
+    "alternate_url": "https://hh.ru/vacancy/118658428",
+    "salary": {
+      "from": 70000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Минимальный опыт <highlighttext>работы</highlighttext> на складе (от пары лет — достаточно). Уверенный пользователь ПК и складских программ. Аккуратность, ответственность, готовность работать в..."
+    }
+  },
+  {
+    "name": "Менеджер клиентского отдела/менеджер пункта выдачи заказов",
+    "alternate_url": "https://hh.ru/vacancy/118184831",
+    "salary": {
+      "from": 70000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Без опыта <highlighttext>работы</highlighttext>! Способность и желание обучаться. Грамотная устная и письменная речь. Хорошие коммуникативные навыки. Открытость и доброжелательность. "
+    }
+  },
+  {
+    "name": "Оператор контактного центра на дому",
+    "alternate_url": "https://hh.ru/vacancy/118634356",
+    "salary": {
+      "from": 49000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Способность быстро обучаться и ориентироваться в потоке информации. Грамотная речь. Для удаленной <highlighttext>работы</highlighttext> — тихое место с компьютером, гарнитурой и надёжным..."
+    }
+  },
+  {
+    "name": "Сборщик на склад в Dark Store (оформление online)",
+    "alternate_url": "https://hh.ru/vacancy/116326554",
+    "salary": {
+      "from": 79500,
+      "to": 134500,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Требования не указаны"
+    }
+  },
+  {
+    "name": "Администратор",
+    "alternate_url": "https://hh.ru/vacancy/118484829",
+    "salary": {
+      "from": 150000,
+      "to": 250000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Требования не указаны"
+    }
+  },
+  {
+    "name": "Риэлтор / агент по недвижимости",
+    "alternate_url": "https://hh.ru/vacancy/118457989",
+    "salary": {
+      "from": 150000,
+      "to": 350000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Большой объём собственных лидов. Ищем в команду порядочных, целеустремлённых и трудолюбивых коллег!"
+    }
+  },
+  {
+    "name": "Полицейский",
+    "alternate_url": "https://hh.ru/vacancy/118291192",
+    "salary": {
+      "from": 80000,
+      "to": 120000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Образование не ниже среднего полного общего (11 классов). Рассматриваются кандидаты при наличии категории В в военном билете (для военнообязанных). "
+    }
+  },
+  {
+    "name": "Сборщик-комплектовщик/Сборщица-комплектовщица",
+    "alternate_url": "https://hh.ru/vacancy/118417403",
+    "salary": {
+      "from": 60000,
+      "to": 80000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Энергичность и внимательность. Быстрота и аккуратность."
+    }
+  },
+  {
+    "name": "Менеджер по массовому подбору",
+    "alternate_url": "https://hh.ru/vacancy/118361722",
+    "salary": {
+      "from": 50000,
+      "to": 150000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Твоя речь свободная и грамотная, а мозг работает. Твоя манера общения позитивная и, в то же время, доминантная, убедительная. "
+    }
+  },
+  {
+    "name": "Менеджер в онлайн школу на входящие заявки-лидмен",
+    "alternate_url": "https://hh.ru/vacancy/118123413",
+    "salary": {
+      "from": null,
+      "to": 80000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Matrius — школа развития интеллекта для детей с 5 лет."
+    }
+  },
+  {
+    "name": "Оператор станка / Станочник",
+    "alternate_url": "https://hh.ru/vacancy/118803166",
+    "salary": {
+      "from": 75000,
+      "to": 90000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Необходимость подъема бобин до 20 кг. - физическая выносливость."
+    }
+  },
+  {
+    "name": "Специалист по сбору заказов в Dark Store",
+    "alternate_url": "https://hh.ru/vacancy/116705254",
+    "salary": {
+      "from": 89500,
+      "to": 134500,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Требования не указаны"
+    }
+  },
+  {
+    "name": "Менеджер / удаленно / подработка",
+    "alternate_url": "https://hh.ru/vacancy/118793511",
+    "salary": null,
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Коммуникабельного, эмпатичного, позитивного. С высоким уровнем ответственности. Город значения не имеет!"
+    }
+  },
+  {
+    "name": "Риэлтор / агент по недвижимости",
+    "alternate_url": "https://hh.ru/vacancy/118386790",
+    "salary": {
+      "from": 150000,
+      "to": 350000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Риэлтор без опыта <highlighttext>работы</highlighttext>. -Большой объём собственных лидов. Ищем в команду порядочных, целеустремлённых и трудолюбивых коллег!"
+    }
+  },
+  {
+    "name": "Упаковщик Кофе в короба Легко! (г. Москва)",
+    "alternate_url": "https://hh.ru/vacancy/118531881",
+    "salary": {
+      "from": 238000,
+      "to": 279000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Опыт <highlighttext>работы</highlighttext> не важен, обучение в процессе <highlighttext>работы</highlighttext>."
+    }
+  },
+  {
+    "name": "Администратор в школу танцев",
+    "alternate_url": "https://hh.ru/vacancy/118491904",
+    "salary": {
+      "from": 60000,
+      "to": 100000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "У нас свое обучение и база знаний, которая поможет быстро и качественно влиться в должность.  Желание оказать высокий уровень сервиса.  "
+    }
+  },
+  {
+    "name": "Менеджер по продажам УДАЛЕННО (обучаем с нуля)",
+    "alternate_url": "https://hh.ru/vacancy/118915873",
+    "salary": {
+      "from": 110000,
+      "to": 235000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Горите желанием помогать людям, легко находите общий язык. Любите общаться с людьми, не боитесь телефонных звонков и умеете убедительно доносить..."
+    }
+  },
+  {
+    "name": "Полицейский",
+    "alternate_url": "https://hh.ru/vacancy/118933737",
+    "salary": {
+      "from": 120000,
+      "to": 130000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "При наличии приписного на руках (для военнообязанных). Образование не ниже среднего, средне специального."
+    }
+  },
+  {
+    "name": "Сотрудник в пункт выдачи заказов Wildberries",
+    "alternate_url": "https://hh.ru/vacancy/118657925",
+    "salary": {
+      "from": 50000,
+      "to": 80000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "3. Внимательность. 4. Стрессоустойчивость! 5. Опыт <highlighttext>работы</highlighttext>! Если ты ответственно подходишь к своей <highlighttext>работе</highlighttext>, очень внимательный и ответственный сотрудник, то..."
+    }
+  },
+  {
+    "name": "Менеджер по продажам (удаленно)",
+    "alternate_url": "https://hh.ru/vacancy/118689940",
+    "salary": {
+      "from": 60000,
+      "to": 100000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Требования не указаны"
+    }
+  },
+  {
+    "name": "Менеджер по работе с клиентами / Кредитный эксперт",
+    "alternate_url": "https://hh.ru/vacancy/118773238",
+    "salary": {
+      "from": 150000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Требования не указаны"
+    }
+  },
+  {
+    "name": "Специалист по рассылкам (модельный скаут)",
+    "alternate_url": "https://hh.ru/vacancy/118873233",
+    "salary": null,
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "активный пользователь социальных сетей."
+    }
+  },
+  {
+    "name": "Куратор / консультант на чаты",
+    "alternate_url": "https://hh.ru/vacancy/117906968",
+    "salary": {
+      "from": 30000,
+      "to": 50000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "У тебя есть опыт <highlighttext>работы</highlighttext>, связанный с общением с людьми, коммуникация и люди заряжают тебя! Ты умеешь искренне сопереживать и..."
+    }
+  },
+  {
+    "name": "Менеджер приема заказов",
+    "alternate_url": "https://hh.ru/vacancy/118649012",
+    "salary": {
+      "from": 70000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Знание ПК на уровне уверенного пользователя (MS Office). Грамотная речь и умение общаться. Приветствуется опыт <highlighttext>работы</highlighttext> в ПВЗ."
+    }
+  },
+  {
+    "name": "Упаковщик Конфет по коробам на складе в Москве",
+    "alternate_url": "https://hh.ru/vacancy/118478967",
+    "salary": {
+      "from": 238000,
+      "to": 284000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Опыт <highlighttext>работы</highlighttext> не важен, обучение в процессе <highlighttext>работы</highlighttext>."
+    }
+  },
+  {
+    "name": "Администратор в косметологию",
+    "alternate_url": "https://hh.ru/vacancy/118865398",
+    "salary": {
+      "from": 70000,
+      "to": 80000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Умение быстро находить выход в нестандартной ситуации. Готовность к многозадачной и самостоятельной <highlighttext>работе</highlighttext>. Доброжелательность, внимательность, клиентоориентированность, ответственность, пунктуальность, исполнительность, стрессоустойчивость."
+    }
+  },
+  {
+    "name": "Менеджер по бронированию (в офисе)",
+    "alternate_url": "https://hh.ru/vacancy/118372112",
+    "salary": {
+      "from": 85000,
+      "to": 135000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Ответственность. Стрессоустойчивость. Умение ориентироваться в станциях метро и транспортной развязке Москвы. <highlighttext>Работа</highlighttext> с пк (базовые навыки)."
+    }
+  },
+  {
+    "name": "Менеджер по бронированию (в офисе)",
+    "alternate_url": "https://hh.ru/vacancy/118724339",
+    "salary": {
+      "from": 85000,
+      "to": 135000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Ответственность. Стрессоустойчивость. Умение ориентироваться в станциях метро и транспортной развязке Москвы. <highlighttext>Работа</highlighttext> с пк (базовые навыки)."
+    }
+  },
+  {
+    "name": "Менеджер по бронированию (в офисе)",
+    "alternate_url": "https://hh.ru/vacancy/118871627",
+    "salary": {
+      "from": 85000,
+      "to": 135000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Ответственность. Стрессоустойчивость. Умение ориентироваться в станциях метро и транспортной развязке Москвы. <highlighttext>Работа</highlighttext> с пк (базовые навыки)."
+    }
+  },
+  {
+    "name": "Менеджер по бронированию (в офисе)",
+    "alternate_url": "https://hh.ru/vacancy/118975351",
+    "salary": {
+      "from": 85000,
+      "to": 135000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Ответственность. Стрессоустойчивость. Умение ориентироваться в станциях метро и транспортной развязке Москвы. <highlighttext>Работа</highlighttext> с пк (базовые навыки)."
+    }
+  },
+  {
+    "name": "Менеджер по работе с клиентами (теплая база)",
+    "alternate_url": "https://hh.ru/vacancy/118083395",
+    "salary": {
+      "from": 100000,
+      "to": 150000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Грамотная речь. Развитая коммуникация. Опыт в смежной нише — продажи по телефону, опыт <highlighttext>работы</highlighttext> в сall-центрах."
+    }
+  },
+  {
+    "name": "Секретарь, помощник руководителя",
+    "alternate_url": "https://hh.ru/vacancy/118880018",
+    "salary": {
+      "from": 80000,
+      "to": 120000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Хорошее владение World, Exсel. Наличие компьютера или ноутбука для <highlighttext>работы</highlighttext> дома. Умение работать в режиме многозадачности. Высокая работоспособность. Быстрая обучаемость."
+    }
+  },
+  {
+    "name": "Агент по недвижимости",
+    "alternate_url": "https://hh.ru/vacancy/118630626",
+    "salary": {
+      "from": 260000,
+      "to": 450000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Базовые знания в сфере продаж. Желание обучаться и получать новые знания. Опыт <highlighttext>работы</highlighttext> является преимуществом. - Хорошо зарабатывать ПЛЮС решать амбициозные..."
+    }
+  },
+  {
+    "name": "Администратор",
+    "alternate_url": "https://hh.ru/vacancy/118438548",
+    "salary": {
+      "from": 89000,
+      "to": 109000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Грамотная устная и письменная речь. — Инициативность и желание находить решение в меняющейся ситуации."
+    }
+  },
+  {
+    "name": "Менеджер по Продажам Строительных Материалов",
+    "alternate_url": "https://hh.ru/vacancy/117944001",
+    "salary": {
+      "from": 120000,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Опыт <highlighttext>работы</highlighttext> приветствуется, но не обязателен :). Наши преимущества: <highlighttext>Работа</highlighttext> на долгосрочной основе. Отсутствие рутины и сложностей в процессе <highlighttext>работы</highlighttext>, легкость..."
+    }
+  },
+  {
+    "name": "Санитар/Санитарка в центр для пожилых",
+    "alternate_url": "https://hh.ru/vacancy/118719262",
+    "salary": {
+      "from": 86800,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "ОПЫТ НЕ ВАЖЕН - берем всех! Эмпатия, внимательность, аккуратность, трудолюбие."
+    }
+  },
+  {
+    "name": "Упаковщик заказов в пункт выдачи Яндекс Лавки",
+    "alternate_url": "https://hh.ru/vacancy/110852846",
+    "salary": {
+      "from": 90900,
+      "to": 103500,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "Описание не предоставлено",
+    "snippet": {
+      "requirement": "Требования не указаны"
+    }
   }
 ]
